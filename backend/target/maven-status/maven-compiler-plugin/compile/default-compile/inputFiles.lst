@@ -1,0 +1,17 @@
+D:\FULL STACK PROJECT\Ai Expense Tracker\backend\src\main\java\com\example\finance\auth\AuthController.java
+D:\FULL STACK PROJECT\Ai Expense Tracker\backend\src\main\java\com\example\finance\auth\dto\AuthResponse.java
+D:\FULL STACK PROJECT\Ai Expense Tracker\backend\src\main\java\com\example\finance\auth\dto\LoginRequest.java
+D:\FULL STACK PROJECT\Ai Expense Tracker\backend\src\main\java\com\example\finance\auth\dto\RegisterRequest.java
+D:\FULL STACK PROJECT\Ai Expense Tracker\backend\src\main\java\com\example\finance\config\AppConfig.java
+D:\FULL STACK PROJECT\Ai Expense Tracker\backend\src\main\java\com\example\finance\config\DataInitializer.java
+D:\FULL STACK PROJECT\Ai Expense Tracker\backend\src\main\java\com\example\finance\FinanceBackendApplication.java
+D:\FULL STACK PROJECT\Ai Expense Tracker\backend\src\main\java\com\example\finance\model\Role.java
+D:\FULL STACK PROJECT\Ai Expense Tracker\backend\src\main\java\com\example\finance\model\User.java
+D:\FULL STACK PROJECT\Ai Expense Tracker\backend\src\main\java\com\example\finance\model\UserProfile.java
+D:\FULL STACK PROJECT\Ai Expense Tracker\backend\src\main\java\com\example\finance\profile\ProfileController.java
+D:\FULL STACK PROJECT\Ai Expense Tracker\backend\src\main\java\com\example\finance\repository\RoleRepository.java
+D:\FULL STACK PROJECT\Ai Expense Tracker\backend\src\main\java\com\example\finance\repository\UserProfileRepository.java
+D:\FULL STACK PROJECT\Ai Expense Tracker\backend\src\main\java\com\example\finance\repository\UserRepository.java
+D:\FULL STACK PROJECT\Ai Expense Tracker\backend\src\main\java\com\example\finance\security\JwtAuthenticationFilter.java
+D:\FULL STACK PROJECT\Ai Expense Tracker\backend\src\main\java\com\example\finance\security\JwtService.java
+D:\FULL STACK PROJECT\Ai Expense Tracker\backend\src\main\java\com\example\finance\security\SecurityConfig.java
